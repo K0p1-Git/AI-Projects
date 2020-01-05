@@ -10,3 +10,5 @@
 
 
 3) [Titanic.ipynb](https://github.com/K0p1-Git/AI-Projects/blob/master/Kaggle-Titanic/Titanic.ipynb) - Jupyter notebook source code
+      - Upon further inspection, i've realised that the jupyter notebook did not render 100% perfectly.
+      Import it into Jupyter notebook directly for a better viewing experience.
